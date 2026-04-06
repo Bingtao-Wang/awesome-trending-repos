@@ -1,18 +1,18 @@
 {
-  "date": "2026-04-06T15:53:13.838Z",
+  "date": "2026-04-06T15:55:59.725Z",
   "repos": [
     {
       "owner": "affaan-m",
       "name": "everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 142119,
-      "forks": 21564,
+      "stars": 142126,
+      "forks": 21566,
       "starsToday": 2701,
       "growth": 2701,
       "rank": 1,
       "url": "https://github.com/affaan-m/everything-claude-code",
-      "fetchedAt": "2026-04-06T15:53:14.976Z",
+      "fetchedAt": "2026-04-06T15:56:00.933Z",
       "source": "github-trending"
     },
     {
@@ -20,13 +20,13 @@
       "name": "openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 23574,
+      "stars": 23576,
       "forks": 1572,
       "starsToday": 1823,
       "growth": 1823,
       "rank": 5,
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "fetchedAt": "2026-04-06T15:53:15.175Z",
+      "fetchedAt": "2026-04-06T15:56:01.137Z",
       "source": "github-trending"
     },
     {
@@ -34,13 +34,13 @@
       "name": "goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 37803,
+      "stars": 37805,
       "forks": 3647,
       "starsToday": 1514,
       "growth": 1514,
       "rank": 1,
       "url": "https://github.com/block/goose",
-      "fetchedAt": "2026-04-06T15:53:15.123Z",
+      "fetchedAt": "2026-04-06T15:56:01.090Z",
       "source": "github-trending"
     },
     {
@@ -48,13 +48,13 @@
       "name": "hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 27519,
-      "forks": 3616,
+      "stars": 27526,
+      "forks": 3617,
       "starsToday": 1251,
       "growth": 1251,
       "rank": 1,
       "url": "https://github.com/NousResearch/hermes-agent",
-      "fetchedAt": "2026-04-06T15:53:14.838Z",
+      "fetchedAt": "2026-04-06T15:56:01.024Z",
       "source": "github-trending"
     },
     {
@@ -62,13 +62,13 @@
       "name": "superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 137130,
+      "stars": 137131,
       "forks": 11566,
       "starsToday": 1101,
       "growth": 1101,
       "rank": 9,
       "url": "https://github.com/obra/superpowers",
-      "fetchedAt": "2026-04-06T15:53:15.077Z",
+      "fetchedAt": "2026-04-06T15:56:01.338Z",
       "source": "github-trending"
     },
     {
@@ -76,13 +76,13 @@
       "name": "agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 72839,
-      "forks": 11340,
+      "stars": 72843,
+      "forks": 11341,
       "starsToday": 933,
       "growth": 933,
       "rank": 10,
       "url": "https://github.com/msitarzewski/agency-agents",
-      "fetchedAt": "2026-04-06T15:53:15.077Z",
+      "fetchedAt": "2026-04-06T15:56:01.339Z",
       "source": "github-trending"
     },
     {
@@ -96,7 +96,7 @@
       "growth": 837,
       "rank": 1,
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "fetchedAt": "2026-04-06T15:53:15.173Z",
+      "fetchedAt": "2026-04-06T15:56:01.136Z",
       "source": "github-trending"
     },
     {
@@ -104,13 +104,13 @@
       "name": "freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 441906,
+      "stars": 441909,
       "forks": 44140,
       "starsToday": 758,
       "growth": 758,
       "rank": 10,
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "fetchedAt": "2026-04-06T15:53:15.176Z",
+      "fetchedAt": "2026-04-06T15:56:01.138Z",
       "source": "github-trending"
     },
     {
@@ -124,7 +124,7 @@
       "growth": 703,
       "rank": 3,
       "url": "https://github.com/KeygraphHQ/shannon",
-      "fetchedAt": "2026-04-06T15:53:15.174Z",
+      "fetchedAt": "2026-04-06T15:56:01.136Z",
       "source": "github-trending"
     },
     {
@@ -132,13 +132,13 @@
       "name": "onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 25379,
+      "stars": 25380,
       "forks": 3386,
       "starsToday": 702,
       "growth": 702,
       "rank": 7,
       "url": "https://github.com/onyx-dot-app/onyx",
-      "fetchedAt": "2026-04-06T15:53:14.841Z",
+      "fetchedAt": "2026-04-06T15:56:01.026Z",
       "source": "github-trending"
     },
     {
@@ -146,13 +146,13 @@
       "name": "pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars": 32249,
-      "forks": 3499,
+      "stars": 32251,
+      "forks": 3500,
       "starsToday": 522,
       "growth": 522,
       "rank": 8,
       "url": "https://github.com/badlogic/pi-mono",
-      "fetchedAt": "2026-04-06T15:53:15.176Z",
+      "fetchedAt": "2026-04-06T15:56:01.137Z",
       "source": "github-trending"
     },
     {
@@ -166,7 +166,7 @@
       "growth": 487,
       "rank": 1,
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
-      "fetchedAt": "2026-04-06T15:53:15.373Z",
+      "fetchedAt": "2026-04-06T15:56:02.137Z",
       "source": "github-trending"
     },
     {
@@ -174,13 +174,13 @@
       "name": "agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars": 27647,
+      "stars": 27648,
       "forks": 1665,
       "starsToday": 373,
       "growth": 373,
       "rank": 7,
       "url": "https://github.com/vercel-labs/agent-browser",
-      "fetchedAt": "2026-04-06T15:53:15.124Z",
+      "fetchedAt": "2026-04-06T15:56:01.091Z",
       "source": "github-trending"
     },
     {
@@ -189,12 +189,12 @@
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "language": "Rust",
       "stars": 14440,
-      "forks": 1249,
+      "forks": 1250,
       "starsToday": 352,
       "growth": 352,
       "rank": 6,
       "url": "https://github.com/memvid/memvid",
-      "fetchedAt": "2026-04-06T15:53:15.124Z",
+      "fetchedAt": "2026-04-06T15:56:01.091Z",
       "source": "github-trending"
     },
     {
@@ -208,7 +208,7 @@
       "growth": 324,
       "rank": 11,
       "url": "https://github.com/mattpocock/skills",
-      "fetchedAt": "2026-04-06T15:53:15.078Z",
+      "fetchedAt": "2026-04-06T15:56:01.339Z",
       "source": "github-trending"
     },
     {
@@ -216,13 +216,13 @@
       "name": "llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars": 101857,
+      "stars": 101859,
       "forks": 16442,
       "starsToday": 318,
       "growth": 318,
       "rank": 2,
       "url": "https://github.com/ggml-org/llama.cpp",
-      "fetchedAt": "2026-04-06T15:53:15.374Z",
+      "fetchedAt": "2026-04-06T15:56:02.137Z",
       "source": "github-trending"
     },
     {
@@ -236,7 +236,7 @@
       "growth": 315,
       "rank": 4,
       "url": "https://github.com/Blaizzy/mlx-vlm",
-      "fetchedAt": "2026-04-06T15:53:14.840Z",
+      "fetchedAt": "2026-04-06T15:56:01.025Z",
       "source": "github-trending"
     },
     {
@@ -250,7 +250,7 @@
       "growth": 314,
       "rank": 5,
       "url": "https://github.com/dmtrKovalenko/fff.nvim",
-      "fetchedAt": "2026-04-06T15:53:15.124Z",
+      "fetchedAt": "2026-04-06T15:56:01.091Z",
       "source": "github-trending"
     },
     {
@@ -264,7 +264,7 @@
       "growth": 300,
       "rank": 9,
       "url": "https://github.com/koala73/worldmonitor",
-      "fetchedAt": "2026-04-06T15:53:15.176Z",
+      "fetchedAt": "2026-04-06T15:56:01.138Z",
       "source": "github-trending"
     },
     {
@@ -272,13 +272,13 @@
       "name": "qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
-      "stars": 18493,
+      "stars": 18495,
       "forks": 1127,
       "starsToday": 298,
       "growth": 298,
       "rank": 4,
       "url": "https://github.com/tobi/qmd",
-      "fetchedAt": "2026-04-06T15:53:15.174Z",
+      "fetchedAt": "2026-04-06T15:56:01.137Z",
       "source": "github-trending"
     },
     {
@@ -287,12 +287,12 @@
       "description": "PersonaPlex code.",
       "language": "Python",
       "stars": 7119,
-      "forks": 1068,
+      "forks": 1069,
       "starsToday": 295,
       "growth": 295,
       "rank": 2,
       "url": "https://github.com/NVIDIA/personaplex",
-      "fetchedAt": "2026-04-06T15:53:14.839Z",
+      "fetchedAt": "2026-04-06T15:56:01.025Z",
       "source": "github-trending"
     },
     {
@@ -300,13 +300,13 @@
       "name": "ollama",
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
-      "stars": 167518,
+      "stars": 167520,
       "forks": 15378,
       "starsToday": 263,
       "growth": 263,
       "rank": 1,
       "url": "https://github.com/ollama/ollama",
-      "fetchedAt": "2026-04-06T15:53:15.443Z",
+      "fetchedAt": "2026-04-06T15:56:01.389Z",
       "source": "github-trending"
     },
     {
@@ -320,7 +320,7 @@
       "growth": 252,
       "rank": 7,
       "url": "https://github.com/ResearAI/DeepScientist",
-      "fetchedAt": "2026-04-06T15:53:15.175Z",
+      "fetchedAt": "2026-04-06T15:56:01.137Z",
       "source": "github-trending"
     },
     {
@@ -334,7 +334,7 @@
       "growth": 251,
       "rank": 3,
       "url": "https://github.com/telegramdesktop/tdesktop",
-      "fetchedAt": "2026-04-06T15:53:15.374Z",
+      "fetchedAt": "2026-04-06T15:56:02.137Z",
       "source": "github-trending"
     },
     {
@@ -342,13 +342,13 @@
       "name": "immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars": 96671,
+      "stars": 96672,
       "forks": 5279,
       "starsToday": 220,
       "growth": 220,
       "rank": 2,
       "url": "https://github.com/immich-app/immich",
-      "fetchedAt": "2026-04-06T15:53:15.174Z",
+      "fetchedAt": "2026-04-06T15:56:01.136Z",
       "source": "github-trending"
     }
   ],
@@ -380,6 +380,6 @@
         "count": 3
       }
     ],
-    "totalStars": 1535544
+    "totalStars": 1535581
   }
 }
