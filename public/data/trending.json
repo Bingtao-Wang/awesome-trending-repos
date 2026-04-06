@@ -1,18 +1,18 @@
 {
-  "date": "2026-04-06T16:33:06.977Z",
+  "date": "2026-04-06T16:36:29.460Z",
   "repos": [
     {
       "owner": "affaan-m",
       "name": "everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 142202,
-      "forks": 21579,
+      "stars": 142211,
+      "forks": 21583,
       "starsToday": 2701,
       "growth": 2701,
       "rank": 1,
       "url": "https://github.com/affaan-m/everything-claude-code",
-      "fetchedAt": "2026-04-06T16:33:08.178Z",
+      "fetchedAt": "2026-04-06T16:36:30.725Z",
       "source": "github-trending"
     },
     {
@@ -20,13 +20,13 @@
       "name": "openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 23614,
+      "stars": 23616,
       "forks": 1575,
       "starsToday": 1823,
       "growth": 1823,
       "rank": 5,
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "fetchedAt": "2026-04-06T16:33:08.578Z",
+      "fetchedAt": "2026-04-06T16:36:30.768Z",
       "source": "github-trending"
     },
     {
@@ -34,13 +34,13 @@
       "name": "hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 27579,
+      "stars": 27583,
       "forks": 3621,
       "starsToday": 1721,
       "growth": 1721,
       "rank": 1,
       "url": "https://github.com/NousResearch/hermes-agent",
-      "fetchedAt": "2026-04-06T16:33:08.111Z",
+      "fetchedAt": "2026-04-06T16:36:30.496Z",
       "source": "github-trending"
     },
     {
@@ -48,13 +48,13 @@
       "name": "goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 37836,
+      "stars": 37839,
       "forks": 3650,
       "starsToday": 1514,
       "growth": 1514,
       "rank": 1,
       "url": "https://github.com/block/goose",
-      "fetchedAt": "2026-04-06T16:33:08.227Z",
+      "fetchedAt": "2026-04-06T16:36:30.649Z",
       "source": "github-trending"
     },
     {
@@ -62,13 +62,13 @@
       "name": "superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 137160,
+      "stars": 137163,
       "forks": 11572,
       "starsToday": 1101,
       "growth": 1101,
       "rank": 9,
       "url": "https://github.com/obra/superpowers",
-      "fetchedAt": "2026-04-06T16:33:08.310Z",
+      "fetchedAt": "2026-04-06T16:36:31.014Z",
       "source": "github-trending"
     },
     {
@@ -76,13 +76,13 @@
       "name": "agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 72879,
+      "stars": 72881,
       "forks": 11348,
       "starsToday": 933,
       "growth": 933,
       "rank": 10,
       "url": "https://github.com/msitarzewski/agency-agents",
-      "fetchedAt": "2026-04-06T16:33:08.310Z",
+      "fetchedAt": "2026-04-06T16:36:31.015Z",
       "source": "github-trending"
     },
     {
@@ -90,13 +90,13 @@
       "name": "GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 23161,
+      "stars": 23164,
       "forks": 2624,
       "starsToday": 837,
       "growth": 837,
       "rank": 1,
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "fetchedAt": "2026-04-06T16:33:08.577Z",
+      "fetchedAt": "2026-04-06T16:36:30.768Z",
       "source": "github-trending"
     },
     {
@@ -104,13 +104,13 @@
       "name": "freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 441911,
+      "stars": 441909,
       "forks": 44140,
       "starsToday": 758,
       "growth": 758,
       "rank": 10,
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "fetchedAt": "2026-04-06T16:33:08.579Z",
+      "fetchedAt": "2026-04-06T16:36:30.769Z",
       "source": "github-trending"
     },
     {
@@ -118,13 +118,13 @@
       "name": "shannon",
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
-      "stars": 36245,
+      "stars": 36247,
       "forks": 3791,
       "starsToday": 703,
       "growth": 703,
       "rank": 3,
       "url": "https://github.com/KeygraphHQ/shannon",
-      "fetchedAt": "2026-04-06T16:33:08.577Z",
+      "fetchedAt": "2026-04-06T16:36:30.768Z",
       "source": "github-trending"
     },
     {
@@ -132,13 +132,13 @@
       "name": "onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 25385,
+      "stars": 25386,
       "forks": 3384,
       "starsToday": 702,
       "growth": 702,
       "rank": 7,
       "url": "https://github.com/onyx-dot-app/onyx",
-      "fetchedAt": "2026-04-06T16:33:08.112Z",
+      "fetchedAt": "2026-04-06T16:36:30.501Z",
       "source": "github-trending"
     },
     {
@@ -152,7 +152,7 @@
       "growth": 526,
       "rank": 4,
       "url": "https://github.com/tobi/qmd",
-      "fetchedAt": "2026-04-06T16:33:08.578Z",
+      "fetchedAt": "2026-04-06T16:36:30.768Z",
       "source": "github-trending"
     },
     {
@@ -160,13 +160,13 @@
       "name": "pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars": 32263,
+      "stars": 32266,
       "forks": 3504,
       "starsToday": 522,
       "growth": 522,
       "rank": 8,
       "url": "https://github.com/badlogic/pi-mono",
-      "fetchedAt": "2026-04-06T16:33:08.578Z",
+      "fetchedAt": "2026-04-06T16:36:30.769Z",
       "source": "github-trending"
     },
     {
@@ -174,13 +174,13 @@
       "name": "LiteRT-LM",
       "description": "",
       "language": "C++",
-      "stars": 1885,
+      "stars": 1887,
       "forks": 205,
       "starsToday": 487,
       "growth": 487,
       "rank": 1,
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
-      "fetchedAt": "2026-04-06T16:33:08.920Z",
+      "fetchedAt": "2026-04-06T16:36:31.345Z",
       "source": "github-trending"
     },
     {
@@ -188,13 +188,13 @@
       "name": "agent-browser",
       "description": "Browser automation CLI for AI agents",
       "language": "Rust",
-      "stars": 27655,
+      "stars": 27656,
       "forks": 1666,
       "starsToday": 373,
       "growth": 373,
       "rank": 7,
       "url": "https://github.com/vercel-labs/agent-browser",
-      "fetchedAt": "2026-04-06T16:33:08.229Z",
+      "fetchedAt": "2026-04-06T16:36:30.652Z",
       "source": "github-trending"
     },
     {
@@ -202,13 +202,13 @@
       "name": "memvid",
       "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
       "language": "Rust",
-      "stars": 14444,
-      "forks": 1251,
+      "stars": 14445,
+      "forks": 1252,
       "starsToday": 352,
       "growth": 352,
       "rank": 6,
       "url": "https://github.com/memvid/memvid",
-      "fetchedAt": "2026-04-06T16:33:08.228Z",
+      "fetchedAt": "2026-04-06T16:36:30.652Z",
       "source": "github-trending"
     },
     {
@@ -222,7 +222,7 @@
       "growth": 324,
       "rank": 11,
       "url": "https://github.com/mattpocock/skills",
-      "fetchedAt": "2026-04-06T16:33:08.310Z",
+      "fetchedAt": "2026-04-06T16:36:31.015Z",
       "source": "github-trending"
     },
     {
@@ -230,13 +230,13 @@
       "name": "llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars": 101873,
-      "forks": 16443,
+      "stars": 101875,
+      "forks": 16444,
       "starsToday": 318,
       "growth": 318,
       "rank": 2,
       "url": "https://github.com/ggml-org/llama.cpp",
-      "fetchedAt": "2026-04-06T16:33:08.920Z",
+      "fetchedAt": "2026-04-06T16:36:31.345Z",
       "source": "github-trending"
     },
     {
@@ -250,7 +250,7 @@
       "growth": 315,
       "rank": 4,
       "url": "https://github.com/Blaizzy/mlx-vlm",
-      "fetchedAt": "2026-04-06T16:33:08.112Z",
+      "fetchedAt": "2026-04-06T16:36:30.500Z",
       "source": "github-trending"
     },
     {
@@ -264,7 +264,7 @@
       "growth": 314,
       "rank": 5,
       "url": "https://github.com/dmtrKovalenko/fff.nvim",
-      "fetchedAt": "2026-04-06T16:33:08.228Z",
+      "fetchedAt": "2026-04-06T16:36:30.652Z",
       "source": "github-trending"
     },
     {
@@ -272,13 +272,13 @@
       "name": "personaplex",
       "description": "PersonaPlex code.",
       "language": "Python",
-      "stars": 7136,
+      "stars": 7137,
       "forks": 1070,
       "starsToday": 295,
       "growth": 295,
       "rank": 2,
       "url": "https://github.com/NVIDIA/personaplex",
-      "fetchedAt": "2026-04-06T16:33:08.111Z",
+      "fetchedAt": "2026-04-06T16:36:30.498Z",
       "source": "github-trending"
     },
     {
@@ -286,13 +286,13 @@
       "name": "ollama",
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
-      "stars": 167532,
+      "stars": 167534,
       "forks": 15378,
       "starsToday": 263,
       "growth": 263,
       "rank": 1,
       "url": "https://github.com/ollama/ollama",
-      "fetchedAt": "2026-04-06T16:33:08.711Z",
+      "fetchedAt": "2026-04-06T16:36:31.495Z",
       "source": "github-trending"
     },
     {
@@ -306,7 +306,7 @@
       "growth": 251,
       "rank": 3,
       "url": "https://github.com/telegramdesktop/tdesktop",
-      "fetchedAt": "2026-04-06T16:33:08.920Z",
+      "fetchedAt": "2026-04-06T16:36:31.345Z",
       "source": "github-trending"
     },
     {
@@ -320,7 +320,7 @@
       "growth": 230,
       "rank": 3,
       "url": "https://github.com/farouqaldori/claude-island",
-      "fetchedAt": "2026-04-06T16:33:08.418Z",
+      "fetchedAt": "2026-04-06T16:36:31.117Z",
       "source": "github-trending"
     },
     {
@@ -328,13 +328,13 @@
       "name": "immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars": 96689,
+      "stars": 96690,
       "forks": 5279,
       "starsToday": 220,
       "growth": 220,
       "rank": 2,
       "url": "https://github.com/immich-app/immich",
-      "fetchedAt": "2026-04-06T16:33:08.577Z",
+      "fetchedAt": "2026-04-06T16:36:30.768Z",
       "source": "github-trending"
     },
     {
@@ -348,7 +348,7 @@
       "growth": 214,
       "rank": 3,
       "url": "https://github.com/HKUDS/DeepTutor",
-      "fetchedAt": "2026-04-06T16:33:08.111Z",
+      "fetchedAt": "2026-04-06T16:36:30.499Z",
       "source": "github-trending"
     }
   ],
@@ -380,6 +380,6 @@
         "count": 3
       }
     ],
-    "totalStars": 1500636
+    "totalStars": 1500676
   }
 }
