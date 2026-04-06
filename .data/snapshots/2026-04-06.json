@@ -4,13 +4,13 @@
     "name": "everything-claude-code",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "language": "JavaScript",
-    "stars": 142197,
-    "forks": 21577,
+    "stars": 142202,
+    "forks": 21579,
     "starsToday": 2701,
     "growth": 2701,
     "rank": 1,
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "fetchedAt": "2026-04-06T16:32:17.853Z",
+    "fetchedAt": "2026-04-06T16:33:08.178Z",
     "source": "github-trending"
   },
   {
@@ -24,7 +24,7 @@
     "growth": 1823,
     "rank": 5,
     "url": "https://github.com/siddharthvaddem/openscreen",
-    "fetchedAt": "2026-04-06T16:32:17.898Z",
+    "fetchedAt": "2026-04-06T16:33:08.578Z",
     "source": "github-trending"
   },
   {
@@ -32,13 +32,13 @@
     "name": "hermes-agent",
     "description": "The agent that grows with you",
     "language": "Python",
-    "stars": 27576,
+    "stars": 27579,
     "forks": 3621,
     "starsToday": 1721,
     "growth": 1721,
     "rank": 1,
     "url": "https://github.com/NousResearch/hermes-agent",
-    "fetchedAt": "2026-04-06T16:32:17.445Z",
+    "fetchedAt": "2026-04-06T16:33:08.111Z",
     "source": "github-trending"
   },
   {
@@ -52,7 +52,7 @@
     "growth": 1514,
     "rank": 1,
     "url": "https://github.com/block/goose",
-    "fetchedAt": "2026-04-06T16:32:17.627Z",
+    "fetchedAt": "2026-04-06T16:33:08.227Z",
     "source": "github-trending"
   },
   {
@@ -60,13 +60,13 @@
     "name": "superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
-    "stars": 137159,
-    "forks": 11571,
+    "stars": 137160,
+    "forks": 11572,
     "starsToday": 1101,
     "growth": 1101,
     "rank": 9,
     "url": "https://github.com/obra/superpowers",
-    "fetchedAt": "2026-04-06T16:32:17.948Z",
+    "fetchedAt": "2026-04-06T16:33:08.310Z",
     "source": "github-trending"
   },
   {
@@ -80,7 +80,7 @@
     "growth": 933,
     "rank": 10,
     "url": "https://github.com/msitarzewski/agency-agents",
-    "fetchedAt": "2026-04-06T16:32:17.948Z",
+    "fetchedAt": "2026-04-06T16:33:08.310Z",
     "source": "github-trending"
   },
   {
@@ -94,7 +94,7 @@
     "growth": 837,
     "rank": 1,
     "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "fetchedAt": "2026-04-06T16:32:17.897Z",
+    "fetchedAt": "2026-04-06T16:33:08.577Z",
     "source": "github-trending"
   },
   {
@@ -108,7 +108,7 @@
     "growth": 758,
     "rank": 10,
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "fetchedAt": "2026-04-06T16:32:17.899Z",
+    "fetchedAt": "2026-04-06T16:33:08.579Z",
     "source": "github-trending"
   },
   {
@@ -116,13 +116,13 @@
     "name": "shannon",
     "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
     "language": "TypeScript",
-    "stars": 36244,
+    "stars": 36245,
     "forks": 3791,
     "starsToday": 703,
     "growth": 703,
     "rank": 3,
     "url": "https://github.com/KeygraphHQ/shannon",
-    "fetchedAt": "2026-04-06T16:32:17.898Z",
+    "fetchedAt": "2026-04-06T16:33:08.577Z",
     "source": "github-trending"
   },
   {
@@ -136,7 +136,7 @@
     "growth": 702,
     "rank": 7,
     "url": "https://github.com/onyx-dot-app/onyx",
-    "fetchedAt": "2026-04-06T16:32:17.449Z",
+    "fetchedAt": "2026-04-06T16:33:08.112Z",
     "source": "github-trending"
   },
   {
@@ -144,13 +144,13 @@
     "name": "qmd",
     "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
     "language": "TypeScript",
-    "stars": 18519,
+    "stars": 18520,
     "forks": 1129,
     "starsToday": 526,
     "growth": 526,
     "rank": 4,
     "url": "https://github.com/tobi/qmd",
-    "fetchedAt": "2026-04-06T16:32:17.898Z",
+    "fetchedAt": "2026-04-06T16:33:08.578Z",
     "source": "github-trending"
   },
   {
@@ -158,13 +158,13 @@
     "name": "pi-mono",
     "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
     "language": "TypeScript",
-    "stars": 32262,
+    "stars": 32263,
     "forks": 3504,
     "starsToday": 522,
     "growth": 522,
     "rank": 8,
     "url": "https://github.com/badlogic/pi-mono",
-    "fetchedAt": "2026-04-06T16:32:17.898Z",
+    "fetchedAt": "2026-04-06T16:33:08.578Z",
     "source": "github-trending"
   },
   {
@@ -178,7 +178,7 @@
     "growth": 487,
     "rank": 1,
     "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "fetchedAt": "2026-04-06T16:32:18.378Z",
+    "fetchedAt": "2026-04-06T16:33:08.920Z",
     "source": "github-trending"
   },
   {
@@ -186,13 +186,13 @@
     "name": "agent-browser",
     "description": "Browser automation CLI for AI agents",
     "language": "Rust",
-    "stars": 27654,
+    "stars": 27655,
     "forks": 1666,
     "starsToday": 373,
     "growth": 373,
     "rank": 7,
     "url": "https://github.com/vercel-labs/agent-browser",
-    "fetchedAt": "2026-04-06T16:32:17.629Z",
+    "fetchedAt": "2026-04-06T16:33:08.229Z",
     "source": "github-trending"
   },
   {
@@ -206,7 +206,7 @@
     "growth": 352,
     "rank": 6,
     "url": "https://github.com/memvid/memvid",
-    "fetchedAt": "2026-04-06T16:32:17.628Z",
+    "fetchedAt": "2026-04-06T16:33:08.228Z",
     "source": "github-trending"
   },
   {
@@ -220,7 +220,7 @@
     "growth": 324,
     "rank": 11,
     "url": "https://github.com/mattpocock/skills",
-    "fetchedAt": "2026-04-06T16:32:17.948Z",
+    "fetchedAt": "2026-04-06T16:33:08.310Z",
     "source": "github-trending"
   },
   {
@@ -228,13 +228,13 @@
     "name": "llama.cpp",
     "description": "LLM inference in C/C++",
     "language": "C++",
-    "stars": 101872,
+    "stars": 101873,
     "forks": 16443,
     "starsToday": 318,
     "growth": 318,
     "rank": 2,
     "url": "https://github.com/ggml-org/llama.cpp",
-    "fetchedAt": "2026-04-06T16:32:18.379Z",
+    "fetchedAt": "2026-04-06T16:33:08.920Z",
     "source": "github-trending"
   },
   {
@@ -248,7 +248,7 @@
     "growth": 315,
     "rank": 4,
     "url": "https://github.com/Blaizzy/mlx-vlm",
-    "fetchedAt": "2026-04-06T16:32:17.447Z",
+    "fetchedAt": "2026-04-06T16:33:08.112Z",
     "source": "github-trending"
   },
   {
@@ -262,7 +262,7 @@
     "growth": 314,
     "rank": 5,
     "url": "https://github.com/dmtrKovalenko/fff.nvim",
-    "fetchedAt": "2026-04-06T16:32:17.628Z",
+    "fetchedAt": "2026-04-06T16:33:08.228Z",
     "source": "github-trending"
   },
   {
@@ -270,13 +270,13 @@
     "name": "personaplex",
     "description": "PersonaPlex code.",
     "language": "Python",
-    "stars": 7132,
+    "stars": 7136,
     "forks": 1070,
     "starsToday": 295,
     "growth": 295,
     "rank": 2,
     "url": "https://github.com/NVIDIA/personaplex",
-    "fetchedAt": "2026-04-06T16:32:17.446Z",
+    "fetchedAt": "2026-04-06T16:33:08.111Z",
     "source": "github-trending"
   },
   {
@@ -290,7 +290,7 @@
     "growth": 263,
     "rank": 1,
     "url": "https://github.com/ollama/ollama",
-    "fetchedAt": "2026-04-06T16:32:18.175Z",
+    "fetchedAt": "2026-04-06T16:33:08.711Z",
     "source": "github-trending"
   },
   {
@@ -304,7 +304,7 @@
     "growth": 251,
     "rank": 3,
     "url": "https://github.com/telegramdesktop/tdesktop",
-    "fetchedAt": "2026-04-06T16:32:18.379Z",
+    "fetchedAt": "2026-04-06T16:33:08.920Z",
     "source": "github-trending"
   },
   {
@@ -318,7 +318,7 @@
     "growth": 230,
     "rank": 3,
     "url": "https://github.com/farouqaldori/claude-island",
-    "fetchedAt": "2026-04-06T16:32:17.678Z",
+    "fetchedAt": "2026-04-06T16:33:08.418Z",
     "source": "github-trending"
   },
   {
@@ -332,7 +332,7 @@
     "growth": 220,
     "rank": 2,
     "url": "https://github.com/immich-app/immich",
-    "fetchedAt": "2026-04-06T16:32:17.897Z",
+    "fetchedAt": "2026-04-06T16:33:08.577Z",
     "source": "github-trending"
   },
   {
@@ -346,7 +346,7 @@
     "growth": 214,
     "rank": 3,
     "url": "https://github.com/HKUDS/DeepTutor",
-    "fetchedAt": "2026-04-06T16:32:17.447Z",
+    "fetchedAt": "2026-04-06T16:33:08.111Z",
     "source": "github-trending"
   }
 ]
