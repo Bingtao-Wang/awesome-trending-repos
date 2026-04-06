@@ -4,13 +4,13 @@
     "name": "everything-claude-code",
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "language": "JavaScript",
-    "stars": 142126,
+    "stars": 142127,
     "forks": 21566,
     "starsToday": 2701,
     "growth": 2701,
     "rank": 1,
     "url": "https://github.com/affaan-m/everything-claude-code",
-    "fetchedAt": "2026-04-06T15:56:00.933Z",
+    "fetchedAt": "2026-04-06T15:56:46.094Z",
     "source": "github-trending"
   },
   {
@@ -18,27 +18,13 @@
     "name": "openscreen",
     "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
     "language": "TypeScript",
-    "stars": 23576,
+    "stars": 23577,
     "forks": 1572,
     "starsToday": 1823,
     "growth": 1823,
     "rank": 5,
     "url": "https://github.com/siddharthvaddem/openscreen",
-    "fetchedAt": "2026-04-06T15:56:01.137Z",
-    "source": "github-trending"
-  },
-  {
-    "owner": "block",
-    "name": "goose",
-    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "language": "Rust",
-    "stars": 37805,
-    "forks": 3647,
-    "starsToday": 1514,
-    "growth": 1514,
-    "rank": 1,
-    "url": "https://github.com/block/goose",
-    "fetchedAt": "2026-04-06T15:56:01.090Z",
+    "fetchedAt": "2026-04-06T15:56:45.516Z",
     "source": "github-trending"
   },
   {
@@ -46,13 +32,27 @@
     "name": "hermes-agent",
     "description": "The agent that grows with you",
     "language": "Python",
-    "stars": 27526,
+    "stars": 27528,
     "forks": 3617,
-    "starsToday": 1251,
-    "growth": 1251,
+    "starsToday": 1721,
+    "growth": 1721,
     "rank": 1,
     "url": "https://github.com/NousResearch/hermes-agent",
-    "fetchedAt": "2026-04-06T15:56:01.024Z",
+    "fetchedAt": "2026-04-06T15:56:45.236Z",
+    "source": "github-trending"
+  },
+  {
+    "owner": "block",
+    "name": "goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "stars": 37807,
+    "forks": 3647,
+    "starsToday": 1514,
+    "growth": 1514,
+    "rank": 1,
+    "url": "https://github.com/block/goose",
+    "fetchedAt": "2026-04-06T15:56:45.341Z",
     "source": "github-trending"
   },
   {
@@ -60,13 +60,13 @@
     "name": "superpowers",
     "description": "An agentic skills framework & software development methodology that works.",
     "language": "Shell",
-    "stars": 137131,
+    "stars": 137134,
     "forks": 11566,
     "starsToday": 1101,
     "growth": 1101,
     "rank": 9,
     "url": "https://github.com/obra/superpowers",
-    "fetchedAt": "2026-04-06T15:56:01.338Z",
+    "fetchedAt": "2026-04-06T15:56:45.623Z",
     "source": "github-trending"
   },
   {
@@ -80,7 +80,7 @@
     "growth": 933,
     "rank": 10,
     "url": "https://github.com/msitarzewski/agency-agents",
-    "fetchedAt": "2026-04-06T15:56:01.339Z",
+    "fetchedAt": "2026-04-06T15:56:45.623Z",
     "source": "github-trending"
   },
   {
@@ -88,13 +88,13 @@
     "name": "GitNexus",
     "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
     "language": "TypeScript",
-    "stars": 23130,
-    "forks": 2620,
+    "stars": 23131,
+    "forks": 2621,
     "starsToday": 837,
     "growth": 837,
     "rank": 1,
     "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "fetchedAt": "2026-04-06T15:56:01.136Z",
+    "fetchedAt": "2026-04-06T15:56:45.515Z",
     "source": "github-trending"
   },
   {
@@ -102,13 +102,13 @@
     "name": "freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
     "language": "TypeScript",
-    "stars": 441909,
+    "stars": 441910,
     "forks": 44140,
     "starsToday": 758,
     "growth": 758,
     "rank": 10,
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "fetchedAt": "2026-04-06T15:56:01.138Z",
+    "fetchedAt": "2026-04-06T15:56:45.517Z",
     "source": "github-trending"
   },
   {
@@ -122,7 +122,7 @@
     "growth": 703,
     "rank": 3,
     "url": "https://github.com/KeygraphHQ/shannon",
-    "fetchedAt": "2026-04-06T15:56:01.136Z",
+    "fetchedAt": "2026-04-06T15:56:45.516Z",
     "source": "github-trending"
   },
   {
@@ -136,7 +136,7 @@
     "growth": 702,
     "rank": 7,
     "url": "https://github.com/onyx-dot-app/onyx",
-    "fetchedAt": "2026-04-06T15:56:01.026Z",
+    "fetchedAt": "2026-04-06T15:56:45.240Z",
     "source": "github-trending"
   },
   {
@@ -150,7 +150,7 @@
     "growth": 522,
     "rank": 8,
     "url": "https://github.com/badlogic/pi-mono",
-    "fetchedAt": "2026-04-06T15:56:01.137Z",
+    "fetchedAt": "2026-04-06T15:56:45.517Z",
     "source": "github-trending"
   },
   {
@@ -164,7 +164,7 @@
     "growth": 487,
     "rank": 1,
     "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "fetchedAt": "2026-04-06T15:56:02.137Z",
+    "fetchedAt": "2026-04-06T15:56:46.585Z",
     "source": "github-trending"
   },
   {
@@ -178,7 +178,7 @@
     "growth": 373,
     "rank": 7,
     "url": "https://github.com/vercel-labs/agent-browser",
-    "fetchedAt": "2026-04-06T15:56:01.091Z",
+    "fetchedAt": "2026-04-06T15:56:45.343Z",
     "source": "github-trending"
   },
   {
@@ -192,7 +192,7 @@
     "growth": 352,
     "rank": 6,
     "url": "https://github.com/memvid/memvid",
-    "fetchedAt": "2026-04-06T15:56:01.091Z",
+    "fetchedAt": "2026-04-06T15:56:45.343Z",
     "source": "github-trending"
   },
   {
@@ -206,7 +206,7 @@
     "growth": 324,
     "rank": 11,
     "url": "https://github.com/mattpocock/skills",
-    "fetchedAt": "2026-04-06T15:56:01.339Z",
+    "fetchedAt": "2026-04-06T15:56:45.624Z",
     "source": "github-trending"
   },
   {
@@ -220,7 +220,7 @@
     "growth": 318,
     "rank": 2,
     "url": "https://github.com/ggml-org/llama.cpp",
-    "fetchedAt": "2026-04-06T15:56:02.137Z",
+    "fetchedAt": "2026-04-06T15:56:46.585Z",
     "source": "github-trending"
   },
   {
@@ -234,7 +234,7 @@
     "growth": 315,
     "rank": 4,
     "url": "https://github.com/Blaizzy/mlx-vlm",
-    "fetchedAt": "2026-04-06T15:56:01.025Z",
+    "fetchedAt": "2026-04-06T15:56:45.239Z",
     "source": "github-trending"
   },
   {
@@ -243,12 +243,12 @@
     "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
     "language": "Rust",
     "stars": 3824,
-    "forks": 158,
+    "forks": 159,
     "starsToday": 314,
     "growth": 314,
     "rank": 5,
     "url": "https://github.com/dmtrKovalenko/fff.nvim",
-    "fetchedAt": "2026-04-06T15:56:01.091Z",
+    "fetchedAt": "2026-04-06T15:56:45.343Z",
     "source": "github-trending"
   },
   {
@@ -262,7 +262,7 @@
     "growth": 300,
     "rank": 9,
     "url": "https://github.com/koala73/worldmonitor",
-    "fetchedAt": "2026-04-06T15:56:01.138Z",
+    "fetchedAt": "2026-04-06T15:56:45.517Z",
     "source": "github-trending"
   },
   {
@@ -276,7 +276,7 @@
     "growth": 298,
     "rank": 4,
     "url": "https://github.com/tobi/qmd",
-    "fetchedAt": "2026-04-06T15:56:01.137Z",
+    "fetchedAt": "2026-04-06T15:56:45.516Z",
     "source": "github-trending"
   },
   {
@@ -284,13 +284,13 @@
     "name": "personaplex",
     "description": "PersonaPlex code.",
     "language": "Python",
-    "stars": 7119,
+    "stars": 7120,
     "forks": 1069,
     "starsToday": 295,
     "growth": 295,
     "rank": 2,
     "url": "https://github.com/NVIDIA/personaplex",
-    "fetchedAt": "2026-04-06T15:56:01.025Z",
+    "fetchedAt": "2026-04-06T15:56:45.238Z",
     "source": "github-trending"
   },
   {
@@ -304,7 +304,7 @@
     "growth": 263,
     "rank": 1,
     "url": "https://github.com/ollama/ollama",
-    "fetchedAt": "2026-04-06T15:56:01.389Z",
+    "fetchedAt": "2026-04-06T15:56:45.980Z",
     "source": "github-trending"
   },
   {
@@ -312,13 +312,13 @@
     "name": "DeepScientist",
     "description": "Now, Stronger AI Pushes Frontiers, Stronger Our Shared Future.",
     "language": "TypeScript",
-    "stars": 1570,
+    "stars": 1571,
     "forks": 157,
     "starsToday": 252,
     "growth": 252,
     "rank": 7,
     "url": "https://github.com/ResearAI/DeepScientist",
-    "fetchedAt": "2026-04-06T15:56:01.137Z",
+    "fetchedAt": "2026-04-06T15:56:45.517Z",
     "source": "github-trending"
   },
   {
@@ -332,7 +332,7 @@
     "growth": 251,
     "rank": 3,
     "url": "https://github.com/telegramdesktop/tdesktop",
-    "fetchedAt": "2026-04-06T15:56:02.137Z",
+    "fetchedAt": "2026-04-06T15:56:46.585Z",
     "source": "github-trending"
   },
   {
@@ -346,7 +346,7 @@
     "growth": 220,
     "rank": 2,
     "url": "https://github.com/immich-app/immich",
-    "fetchedAt": "2026-04-06T15:56:01.136Z",
+    "fetchedAt": "2026-04-06T15:56:45.515Z",
     "source": "github-trending"
   }
 ]
