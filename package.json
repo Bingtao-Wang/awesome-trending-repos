@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "update": "node scripts/update.js",
-    "test": "node scripts/update.js --dry-run"
+    "test": "node scripts/update.js --dry-run",
     "notify:telegram": "node scripts/telegram-notify.js"
   },
   "keywords": [
